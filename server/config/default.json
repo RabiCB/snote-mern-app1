@@ -1,0 +1,3 @@
+{
+    "mongoURI":"mongodb://rabi:123@ac-hpcwfqk-shard-00-00.jgnzurr.mongodb.net:27017,ac-hpcwfqk-shard-00-01.jgnzurr.mongodb.net:27017,ac-hpcwfqk-shard-00-02.jgnzurr.mongodb.net:27017/?ssl=true&replicaSet=atlas-13ukmk-shard-0&authSource=admin&retryWrites=true&w=majority"
+}
